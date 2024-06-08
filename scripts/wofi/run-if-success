@@ -1,0 +1,9 @@
+# #!/usr/bin/env bash
+#
+# read project;
+#
+# if [ ! -z "$project" ]; then
+#   
+#   # echo $project
+#   # alacritty -e '$EDITOR "$HOME/projects/$project/"'
+# fi
